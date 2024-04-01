@@ -1,3 +1,10 @@
 adding text
 sample text
 another sample text
+
+git test
+git clone
+git status 
+git log
+git commit -m
+git push
